@@ -49,3 +49,13 @@ To create a chatbot, AI concepts like Natural Language Processing (NLP) are used
 Chatbots are highly useful in the corporate sector for customer service, IT helpdesk, sales, marketing, and HR. Industries from eCommerce, Edtech, and real estate to finance and tourism use chatbots. Top brands like Amazon (Alexa), Spotify, Marriott International, Pizza Hut, Mastercard, and more leverage chatbots.
 
 
+### How To Run
+
+Change your directory to Chatbot:
+cd Chatbot
+Make sure you have all the required libraries listed in requirements.txt. In case any of the libraries are missing, install them using pip. Type this command into your Command Prompt, replacing 'Your-library-name' by the required library name:
+pip install Your-library-name 
+Then run the follwing commands to run the application:
+set FLASK_APP=chatbot.py
+flask run
+Enter the url provided after running the previous commands into your web browser
