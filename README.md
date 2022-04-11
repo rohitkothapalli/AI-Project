@@ -5,10 +5,6 @@ Ted is a multipurpose chatbot made using Python3, who can chat with you and help
 
 First, the user message is lemmatized and pre-processed, before passing it to the deep-learning model used, an Artificial Neural Network with Softmax, to specify the query category which achieves an accuracy of **over 98%**.
 
-## Project UI
-Home Page:
-
-![image](https://raw.githubusercontent.com/Karan-Malik/Chatbot/master/UI/main_screen.PNG?token=AKGUW5C2TMM37OQE5FSPXLS66D55O)
 
 Chat Screen:
 
